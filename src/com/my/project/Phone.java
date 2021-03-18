@@ -11,7 +11,7 @@ public class Phone {
     }
 
     public Phone(long number, String model, int weight) {
-        this(number, model);//wewcw
+        this(number, model);
         this.weight = weight;
     }
 
